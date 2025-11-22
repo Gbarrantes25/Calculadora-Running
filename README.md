@@ -38,7 +38,9 @@ Diseñado solicitar algunos datos al usuario y realizar algunos calculos referen
 ## 🖼️ Vistas Previas del proyecto
 <details>
   <summary>Capturas</summary>
-  ![Animation3](https://github.com/user-attachments/assets/e5342618-351e-4565-8873-8bb5fe4e23a4)
+  <img src="https://github.com/user-attachments/assets/0f0deb91-c9e0-45bb-9319-ed59bfa05468" alt="gif de procedimiento" width=750>
+
+  
 </details>
 
 
