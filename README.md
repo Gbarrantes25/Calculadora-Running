@@ -1,5 +1,8 @@
 # Calculadora-Running
 
+<img width="1269" height="667" alt="running" src="https://github.com/user-attachments/assets/1e517be7-c7e5-4c10-a8f8-4e0e4f64bf58" />
+
+
 ## 📃 Descripción General
 Diseñado solicitar algunos datos al usuario y realizar algunos calculos referentes al running.
 
